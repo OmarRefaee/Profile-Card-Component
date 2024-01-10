@@ -25,8 +25,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Solution](https://www.frontendmentor.io/solutions/profile-card-html-scss-TXUb28mr_H)
+-   Live Site URL: [Live site](https://profile-card-or.netlify.app/)
 
 ## My process
 
